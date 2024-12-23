@@ -1,4 +1,4 @@
-Certainly! Below is a comprehensive **README.md** template tailored for your `pytorch-6-day-learning` repository. This description provides an overview of the project, outlines the directory structure, explains how to get started, and includes additional resources to support learners.
+This description provides an overview of the project, outlines the directory structure, explains how to get started, and includes additional resources to support learners.
 
 ---
 
